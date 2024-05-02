@@ -1,2 +1,2 @@
 # COMP0147
-Discrete Math
+Discrete Math 考试题目考点笔记
